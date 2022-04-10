@@ -2,12 +2,12 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-ismailah28-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismailah28/)](https://www.linkedin.com/in/ismailah28/)
 [![Twitter Badge](https://img.shields.io/badge/-ismailah28-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/ismailah28)](https://www.twitter.com/ismailah28/)
+[![Download Badge](https://img.shields.io/badge/-Download_CV-black?style=flat-square&logo=Downloads&logoColor=white&link=https://res.cloudinary.com/ismailah28/image/upload/v1649589756/resume_sgqend.pdf)](https://res.cloudinary.com/ismailah28/image/upload/v1649589756/resume_sgqend.pdf)
+
 
 ✨ I'm a data analyst and a backend developer focused on using technology in solving business challenges. 
 
 My day to day activity centers around collecting, cleaning and analysing data for the technical deparment of [Kaduna Electric](https://kadunaelectric.com). But my passion for technology drove me to learn web technologies to help me build tools that will simplify my work and make life easier for me and my employer.
-
-
 
 ### Technologies I use include but to limited to the following
 
