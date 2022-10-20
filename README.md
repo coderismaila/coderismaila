@@ -9,7 +9,7 @@
 
 My day to day activity centers around collecting, cleaning and analysing data for the technical deparment of [Kaduna Electric](https://kadunaelectric.com). But my passion for technology drove me to learn web technologies to help me build tools that will simplify my work and make life easier for me and my employer.
 
-### Technologies I use include but to limited to the following
+### Technologies I use include but not limited to the following
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
