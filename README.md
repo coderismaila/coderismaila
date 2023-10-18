@@ -1,4 +1,4 @@
-# Hey, I'm Isma'il <img src="https://raw.githubusercontent.com/coderismaila/coderismaila/main/wave.gif" width="30px">
+# Hey, I'm Isma'ila <img src="https://raw.githubusercontent.com/coderismaila/coderismaila/main/wave.gif" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-ismailah28-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismailah28/)](https://www.linkedin.com/in/ismailah28/)
 [![Twitter Badge](https://img.shields.io/badge/-ismailah28-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/ismailah28)](https://www.twitter.com/ismailah28/)
