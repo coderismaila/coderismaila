@@ -26,6 +26,7 @@
 
 ![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=Excel)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL)
+![MicrosoftPowerBI](https://img.shields.io/badge/-Microsoft%20PowerBI-black?style=flat-square&logo=microsoft-powerbi)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
